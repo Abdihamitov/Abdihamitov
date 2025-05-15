@@ -44,4 +44,19 @@ me = Developer()
 print(me.greet())
 
 
-<details> <summary><h2>🚀 My Projects</h2></summary> <p align="left"> <a href="https://github.com/Abdihamitov/digital_med"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Abdihamitov&repo=digital_med&theme=react&bg_color=1F222E&title_color=22F7A7&hide_border=true&icon_color=22F7A7&show_icons=false&show_description=true" alt="digital_med"></a> <a href="https://github.com/Abdihamitov/my-html-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Abdihamitov&repo=my-html-page&theme=react&bg_color=1F222E&title_color=22F7A7&hide_border=true&icon_color=22F7A7&show_icons=false&show_description=true" alt="my-html-page"></a> <a href="https://github.com/Abdihamitov/telegram_ai_bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Abdihamitov&repo=telegram_ai_bot&theme=react&bg_color=1F222E&title_color=22F7A7&hide_border=true&icon_color=22F7A7&show_icons=false&show_description=true" alt="telegram_ai_bot"></a> </p> </details>
+<details>
+  <summary><h2>🚀 My Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Abdihamitov/digital_med">
+      <img width="278" src="..." alt="digital_med">
+    </a>
+    <a href="https://github.com/Abdihamitov/my-html-page">
+      <img width="278" src="..." alt="my-html-page">
+    </a>
+    <a href="https://github.com/Abdihamitov/telegram_ai_bot">
+      <img width="278" src="..." alt="telegram_ai_bot">
+    </a>
+  </p>
+
+</details>
