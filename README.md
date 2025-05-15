@@ -42,21 +42,3 @@ class Developer:
 
 me = Developer()
 print(me.greet())
-
-
-<details>
-  <summary><h2>🚀 My Projects</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/Abdihamitov/digital_med">
-      <img width="278" src="..." alt="digital_med">
-    </a>
-    <a href="https://github.com/Abdihamitov/my-html-page">
-      <img width="278" src="..." alt="my-html-page">
-    </a>
-    <a href="https://github.com/Abdihamitov/telegram_ai_bot">
-      <img width="278" src="..." alt="telegram_ai_bot">
-    </a>
-  </p>
-
-</details>
