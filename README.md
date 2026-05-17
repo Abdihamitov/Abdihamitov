@@ -1,11 +1,11 @@
-# Привет! Я Адел (Adel Abdihamitov) 👋
+# Hi! I'm Adel (Adel Abdihamitov) 👋
 ### Full-Stack Python Developer | Go Backend Engineer | Bot Architect
 
-Я бэкенд-разработчик и архитектурный гик. Специализируюсь на создании отказоустойчивых микросервисов, асинхронных API, распределенных систем и автоматизации процессов. Активно занимаюсь олимпиадным программированием.
+I am a backend developer and architecture enthusiast. I specialize in building fault-tolerant microservices, asynchronous APIs, distributed systems, and process automation. I am also actively involved in competitive programming.
 
 <p align="center">
   <a href="https://github.com/covercp">
-    <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Assalamu+Aleikum+I'am+Adel;Go+%26+Python+Backend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+    <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+Adel;Go+%26+Python+Backend+Developer;Welcome+to+my+profile!&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
   </a>
 </p>
 
@@ -20,19 +20,19 @@
 
 ---
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-- 💻 **Текущий фокус:** Проектирование микросервисной архитектуры на Go (gRPC, Kafka) и высоконагруженных бэкенд-систем на Python.
-- 🎓 **Статус:** Студент, IT-ментор и волонтер. Обучаю людей программированию с нуля.
-- 🏆 **Достижения:** - Призер олимпиад по информатике (алгоритмы на графах, динамика, бинарный поиск).
-  - Победитель в номинации "Эң мыкты инновациялык долбоор" (Most Innovative Project) на EXPO Start-Up Go за проект MigraGuide.
-- 🌍 **Цели:** Подготовка к SAT/IELTS и поступление в зарубежный вуз.
+- 💻 **Current Focus:** Designing microservice architecture using Go (gRPC, Kafka) and high-load backend systems with Python.
+- 🎓 **Status:** Student, IT Mentor, and Volunteer. Teaching people programming from scratch and helping them launch their projects.
+- 🏆 **Achievements:** - Informatics Olympiad winner/prize taker (algorithms on graphs, dynamic programming, binary search).
+  - Winner of the "Most Innovative Project" nomination at EXPO Start-Up Go for the MigraGuide project.
+- 🌍 **Goals:** Preparing for SAT/IELTS and pursuing studies abroad.
 
 ---
 
-## 🛠️ Мой Стек Технологий (Skills)
+## 🛠️ Tech Stack & Skills
 
-### 💻 Языки программирования & Фреймворки
+### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,go" alt="Languages and Frameworks" />
 </p>
@@ -40,41 +40,40 @@
 * **Python:** Django, Django REST Framework (DRF), FastAPI, Asyncio, ApsScheduler
 * **Go (Golang):** Echo, gRPC
 
-### 🦫 Очереди, Кэширование & Брокеры сообщений
+### 🦫 Message Brokers, Queues & Caching
 <p align="left">
   <img src="https://skillicons.dev/icons?i=redis,rabbitmq" alt="Queues and Cache" />
 </p>
 
-* **Инструменты:** Kafka, RabbitMQ, Redis, Celery, Memcached
+* **Tools:** Kafka, RabbitMQ, Redis, Celery, Memcached
 
-### 🗄️ Базы данных & Поиск
+### 🗄️ Databases & Search
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,elasticsearch" alt="Databases" />
 </p>
 
-* **БД:** PostgreSQL, MySQL, SQLite3, ElasticSearch (ELK)
+* **DB:** PostgreSQL, MySQL, SQLite3, ElasticSearch (ELK)
 
 ### 🐳 DevOps, CI/CD & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gitlab,github" alt="DevOps" />
 </p>
 
-* **Инструменты:** Docker, Docker-Compose, Kubernetes, Nginx, AWS S3
+* **Tools:** Docker, Docker-Compose, Kubernetes, Nginx, AWS S3
 * **CI/CD & Git:** Git, GitHub, GitLab CI/CD
 
-### 🧪 Тестирование, API Docs & Мониторинг
+### 🧪 Testing, API Docs & Monitoring
 <p align="left">
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Monitoring and Testing" />
 </p>
 
-* **API & Документация:** RestAPI, gRPC, Swagger (drf-spectacular, echo-swagger)
-* **Тесты:** Testify (Go), Pytest, Unittest (Python)
-* **Мониторинг:** Grafana, Prometheus
+* **API & Documentation:** RestAPI, gRPC, Swagger (drf-spectacular, echo-swagger)
+* **Testing:** Testify (Go), Pytest, Unittest (Python)
+* **Monitoring:** Grafana, Prometheus
 
 ---
 
-
-## 📫 Мои контакты
+## 📫 Connect with Me
 
 <div>
   <a href="https://wa.me/996503300265"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
@@ -84,7 +83,7 @@
 
 <br>
 
-### 🐍 Активность на коммитах (Snake Game)
+### 🐍 Contribution Activity (Snake Game)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
