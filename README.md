@@ -46,7 +46,7 @@ I am a backend developer and architecture enthusiast. I specialize in building f
 
 ### 🐳 DevOps, CI/CD & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gitlab,github" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gitlab,github,linux" alt="DevOps" />
 </p>
 
 * **Tools:** Docker, Docker-Compose, Kubernetes, Nginx, AWS S3
@@ -54,7 +54,7 @@ I am a backend developer and architecture enthusiast. I specialize in building f
 
 ### 🧪 Testing, API Docs & Monitoring
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Monitoring and Testing" />
+  <img src="https://skillicons.dev/icons?i=swagger,grafana,prometheus" alt="Monitoring and Testing" />
 </p>
 
 * **API & Documentation:** RestAPI, gRPC, Swagger (drf-spectacular, echo-swagger)
