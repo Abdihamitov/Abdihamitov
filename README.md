@@ -1,14 +1,13 @@
 # Hi! I'm Adel (Adel Abdihamitov) 👋
-### Python Developer | Go Developer 
+### Python Developer | Go Developer | C++ Developer
 
-I am a backend developer and architecture enthusiast. I specialize in building fault-tolerant microservices, asynchronous APIs, distributed systems, and process automation. I am also actively involved in competitive programming.
+I am a backend developer and architecture enthusiast. I specialize in building fault-tolerant microservices, asynchronous APIs, distributed systems, and process automation. I am also actively involved in competitive programming using C++.
 
 <p align="center">
   <a href="https://github.com/covercp">
-    <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+Adel;Go+%26+Python+Backend+Developer;Welcome+to+my+profile!&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+    <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+Adel;Go,+Python+%26+C%2B%2B+Backend+Developer;Welcome+to+my+profile!&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
   </a>
 </p>
-
 
 ---
 
@@ -16,8 +15,7 @@ I am a backend developer and architecture enthusiast. I specialize in building f
 
 - 💻 **Current Focus:** Designing microservice architecture using Go (gRPC, Kafka) and high-load backend systems with Python.
 - 🎓 **Status:** Student, IT Mentor, and Volunteer. Teaching people programming from scratch and helping them launch their projects.
-- 🏆 **Achievements:** - Sport programming/prize taker (algorithms).
-
+- 🏆 **Achievements:** - Sport programming/prize taker (algorithms using C++).
 
 ---
 
@@ -25,15 +23,16 @@ I am a backend developer and architecture enthusiast. I specialize in building f
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,cpp" alt="Languages and Frameworks" />
 </p>
 
+* **Languages:** Python, Go (Golang), C++
 * **Python:** Django, Django REST Framework (DRF), FastAPI, Asyncio, ApsScheduler
 * **Go (Golang):** Echo, gRPC
 
 ### 🦫 Message Brokers, Queues & Caching
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redis,rabbitmq" alt="Queues and Cache" />
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka" alt="Queues and Cache" />
 </p>
 
 * **Tools:** Kafka, RabbitMQ, Redis, Celery, Memcached
