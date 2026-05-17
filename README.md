@@ -24,9 +24,8 @@ I am a backend developer and architecture enthusiast. I specialize in building f
 
 - 💻 **Current Focus:** Designing microservice architecture using Go (gRPC, Kafka) and high-load backend systems with Python.
 - 🎓 **Status:** Student, IT Mentor, and Volunteer. Teaching people programming from scratch and helping them launch their projects.
-- 🏆 **Achievements:** - Informatics Olympiad winner/prize taker (algorithms on graphs, dynamic programming, binary search).
-  - Winner of the "Most Innovative Project" nomination at EXPO Start-Up Go for the MigraGuide project.
-- 🌍 **Goals:** Preparing for SAT/IELTS and pursuing studies abroad.
+- 🏆 **Achievements:** - Sport programming/prize taker (algorithms).
+
 
 ---
 
