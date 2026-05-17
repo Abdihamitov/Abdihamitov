@@ -74,24 +74,12 @@
 ---
 
 
-## 📊 Моя статистика GitHub
-
-<h4 align="center">Просмотры профиля 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{covercp}/count.svg" alt="covercp :: Visitor's Count" /></p>
-
-<p align="center">
-  <a href="https://github.com/covercp?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=covercp&theme=tokyonight&no-frame=true&column=3&row=1" width="400px" alt="@covercp's trophy stats"/></a>
-</p>
-
----
-
 ## 📫 Мои контакты
 
 <div>
-  <a href="https://wa.me/996709826628"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://wa.me/996503300265"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
   <a href="https://t.me/covercp"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/abd1.ham1tov"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://youtube.com/@ynty.1?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+  <a href="https://www.instagram.com/nyaspera_"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
 </div>
 
 <br>
