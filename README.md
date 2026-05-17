@@ -1,5 +1,5 @@
 # Hi! I'm Adel (Adel Abdihamitov) 👋
-### Python Developer | Go Backend Engineer 
+### Python Developer | Go Developer 
 
 I am a backend developer and architecture enthusiast. I specialize in building fault-tolerant microservices, asynchronous APIs, distributed systems, and process automation. I am also actively involved in competitive programming.
 
