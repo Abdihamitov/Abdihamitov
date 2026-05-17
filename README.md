@@ -9,14 +9,6 @@ I am a backend developer and architecture enthusiast. I specialize in building f
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=covercp&langs_count=10&theme=tokyonight&layout=compact" width="430px" alt="covercp :: Top Langs" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/covercp?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=covercp&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="400px" alt="@covercp's github-readme-stats"/></a>
-  <a href="https://github.com/covercp?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=covercp&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="400px" alt="@covercp's github-readme-streak-stats"/></a>
-</p>
 
 ---
 
